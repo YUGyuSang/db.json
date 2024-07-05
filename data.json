@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "yugyusang",
+        "age": 25,
+        "address": "osan"  
+    },
+    {
+        "id":2,
+        "name": "zzagu",
+        "age": 5,
+        "address": "forest"  
+    },
+    {
+        "id":3,
+        "name": "slgi",
+        "age": 24,
+        "address": "anseng"  
+    }
+]
